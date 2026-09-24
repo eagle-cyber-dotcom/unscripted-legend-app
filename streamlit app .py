@@ -71,4 +71,4 @@ elif password != "":
 
 # --- FOOTER / BRANDING ---
 st.divider()
-st.caption("⚡ Powered by Unscripted Legends | All Rights Reserved"
+st.caption("⚡ Powered by Unscripted Legends | All Rights Reserved".
