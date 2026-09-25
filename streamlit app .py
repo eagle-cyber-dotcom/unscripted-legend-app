@@ -15,7 +15,7 @@ st.markdown("### 🔒 Creator Access")
 st.write("Enter your Creator Password to unlock the full script generator.")
 
 # Your working Paystack link
-paystack_link = "https://paystack.shop/pay/dfmvjam8bn" 
+paystack_link = "https://paystack.com/pay/unscripted-legend-app"
 
 st.markdown(f"**Don't have a password?** [👉 Click here to buy lifetime access]({paystack_link})")
 
